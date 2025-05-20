@@ -18,7 +18,7 @@ A simple **Tic Tac Toe** game built using **Python** and **Tkinter** GUI. Two pl
 ## 📸 Screenshot
 
 ![Screenshot](https://github.com/Wahid-vinchenzo/Learning-PY-And-PY-Projects/blob/main/Python%20project/Screenshot_1.jpg)
-
+![Screenshot](https://i.postimg.cc/RCwcxHQ4/Screenshot-1.jpg)
 ---
 
 ## 🚀 Getting Started
