@@ -20,10 +20,4 @@ A simple **Tic Tac Toe** game built using **Python** and **Tkinter** GUI. Two pl
 ![Screenshot](https://i.postimg.cc/RCwcxHQ4/Screenshot-1.jpg)
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-python tictactoe.py
 
