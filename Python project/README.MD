@@ -49,7 +49,7 @@ A ✨ simple and powerful Python script to generate QR codes from **user input U
 
 ## 📸 Screenshot
 
-![Screenshot](https://postimg.cc/dhp8zLqt)
+![Screenshot](https://i.postimg.cc/s2DwGhqS/download.png)
 ---
 
 
