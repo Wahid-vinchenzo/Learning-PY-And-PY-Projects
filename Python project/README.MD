@@ -21,3 +21,36 @@ A simple **Tic Tac Toe** game built using **Python** and **Tkinter** GUI. Two pl
 ---
 
 
+# ⚡ QR Code Generator 🔗📷
+
+A ✨ simple and powerful Python script to generate QR codes from **user input URLs**. Save them as images 🖼️, display them in Jupyter 💻, and customize their look with colors 🎨 and error correction 💡!
+
+---
+
+## 🚀 Features
+
+✅ Takes user input for any URL  
+✅ Generates high-quality QR codes  
+✅ Customizable colors 🎨 and error correction level 🛠️  
+✅ Saves as `.png` file 📁  
+✅ Jupyter Notebook display support 📘
+
+---
+
+## 🔧 Requirements
+
+🛠️ Python 3.x  
+📦 Libraries:
+- `qrcode`
+- `Pillow` (PIL)
+- (Optional) `IPython` (for displaying in Jupyter)
+
+📥 Install everything with:
+
+```bash
+pip install qrcode[pil]
+
+
+
+
+
