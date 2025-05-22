@@ -52,6 +52,32 @@ A ✨ simple and powerful Python script to generate QR codes from **user input U
 ![Screenshot](https://i.postimg.cc/s2DwGhqS/download.png)
 ---
 
+# 🤖 Telegram ChatGPT Bot using Python + OpenAI + PythonAnywhere 🚀
+
+Welcome to a beginner-friendly Telegram bot project that connects **Telegram** with **OpenAI's ChatGPT (GPT-3.5 / GPT-4)** — all powered by **Python** and hosted **for free on PythonAnywhere**! 🌐🐍
+
+> Ask anything — get smart replies, instantly via Telegram. 🧠💬
+
+---
+
+## ✨ Features
+
+✅ Powered by **OpenAI GPT models** (ChatGPT)  
+✅ Built using **Python** and **pyTelegramBotAPI**  
+✅ Hosted on **PythonAnywhere** – no local server needed  
+✅ Easy to set up – beginner-friendly & well-commented  
+✅ Supports **real-time message replies**  
+✅ 💡 Great starting point for AI-powered bots
+
+---
+
+## 🔧 Requirements
+
+Install the required Python packages:
+
+```bash
+pip install pyTelegramBotAPI openai
+
 
 
 
