@@ -88,8 +88,36 @@ pip install pyTelegramBotAPI openai
 
 🔑 OpenAI API Key → From OpenAI Dashboard
 
+2. Update the Python Script ✏️
 
+In bot.py, replace the placeholders with your actual API keys:
 
+```bash
+TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+OPENAI_API_KEY = 'YOUR_OPENAI_API_KEY'
+```
 
+3. Run the Bot Locally (Optional) 🧪
 
+To test locally before deploying:
+
+```bash
+python bot.py
+```
+## ☁️ Hosting on PythonAnywhere (Free Tier)
+
+🎉 You can host this bot 24/7 for free using PythonAnywhere:
+
+1.Create an account
+
+2.Upload your bot.py file
+
+3.Create a "Always-On Task" or use the console to run it
+
+Done! Your Telegram ChatGPT bot is now online! 🌍⚡
+
+---
+![Screenshot](https://i.postimg.cc/d3Z0dr00/photo-6159104491580935011-x.jpg)
+
+----
 
