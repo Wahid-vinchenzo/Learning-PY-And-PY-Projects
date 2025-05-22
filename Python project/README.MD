@@ -45,10 +45,13 @@ A ✨ simple and powerful Python script to generate QR codes from **user input U
 - `Pillow` (PIL)
 - (Optional) `IPython` (for displaying in Jupyter)
 
-📥 Install everything with:
+---
 
-```bash
-pip install qrcode[pil]
+## 📸 Screenshot
+
+![Screenshot](https://postimg.cc/dhp8zLqt)
+---
+
 
 
 
