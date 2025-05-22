@@ -78,6 +78,7 @@ Install the required Python packages:
 ```bash
 pip install pyTelegramBotAPI openai
 
+```
 ## 🛠️ Setup Instructions
 
 
