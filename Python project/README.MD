@@ -78,6 +78,15 @@ Install the required Python packages:
 ```bash
 pip install pyTelegramBotAPI openai
 
+## 🛠️ Setup Instructions
+
+
+1. Get Your API Keys 🔐
+
+🛠️ Telegram Bot Token → From @BotFather
+
+🔑 OpenAI API Key → From OpenAI Dashboard
+
 
 
 
