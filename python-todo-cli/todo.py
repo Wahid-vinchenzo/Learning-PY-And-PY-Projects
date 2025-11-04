@@ -56,3 +56,4 @@ def mark_task_done(index):
         print(f"Task '{title}' marked completed.")
     except (IndexError, ValueError):
         print("Invalid task number.")
+print("Goodbye from A!")
